@@ -84,7 +84,7 @@
       "CLICK_HERE": "Hier klicken",
       "CLOSE": "Schließen",
       "COMING_SOON": "Demnächst",
-      "COMMISSION_PERCENTAGE": "{PERCENTAGE} Provision", 
+      "COMMISSION_PERCENTAGE": "{PERCENTAGE} Provision",
       "COMPETITION": "Wettbewerb",
       "COMPETITIONS": "Wettbewerbe",
       "CONFIRM_DEPOSIT": "Einzahlung bestätigen",
@@ -133,6 +133,7 @@
       "EG": "z.B.",
       "EMAIL": "E-Mail",
       "ENDED": "Beendet",
+      "ENTERTAINMENT": "Unterhaltung",
       "EQUITY": "Eigenkapital",
       "EST_APR": "Est. {PERCENTAGE} APR",
       "EST_GAS": "Est. Gas",
@@ -189,6 +190,7 @@
       "ADD_NEW_MARKET": "Neuen Markt hinzufügen",
       "ADD_NEW_MARKET_CAPITALIZED": "Neuen Markt hinzufügen",
       "NO_RECENTLY_LISTED_MARKETS": "Keine kürzlich notierten Märkte",
+      "NO_RESULTS": "Keine Ergebnisse",
       "HIGHLIGHTS": "Highlights",
       "LAYER_1": "Schicht 1",
       "LAYER_2": "Layer 2",
@@ -267,6 +269,7 @@
       "QUERY_NOT_FOUND": "„{QUERY}“ wurde nicht gefunden",
       "QUEUED": "Warteschlange",
       "RANKINGS": "Rankings",
+      "REAL_WORLD_ASSET_SHORT": "RWA",
       "RECEIVE": "Erhalten",
       "RECENT_TRADES_SHORT": "Trades",
       "RECENT": "Kürzlich",
@@ -284,6 +287,7 @@
       "SAVE": "Speichern",
       "SAVED": "Gespeichert",
       "SCAN_TO_DOWNLOAD": "Scannen Sie, um die App herunterzuladen",
+      "SEARCH": "Suche",
       "SELECT": "Auswählen {SELECTION}",
       "SELECT_ASSET": "Wählen Sie ein Asset aus",
       "SELECT_CHAIN": "Wählen Sie eine Kette",
@@ -983,6 +987,7 @@
       "FAST": "Schnell",
       "FAST_WITHDRAW_CONFIRMATION": "Für diese schnelle Auszahlung wird eine Gebühr von {FEE} erhoben. Ihr Geld wird sofort gesendet und erscheint in Ihrem Wallet, sobald die Auszahlungstransaktion bestätigt wurde.",
       "LOWEST_FEES_HIGHLIGHT_TEXT": "Niedrigste Gebühren",
+      "LOWEST_FEE_WITHDRAWALS_SKIP": "USDC-Auszahlungen {LOWEST_FEE_TOKENS_TOOLTIP}auf haben die niedrigsten Gebühren. Andere Auszahlungsmethoden (z. B. Vermögenswerte auf Ethereum) können zusätzliche Gebühren von Drittanbietern enthalten.",
       "LOWEST_FEE_WITHDRAWALS": "USDC-Auszahlungen {LOWEST_FEE_TOKENS_TOOLTIP}auf haben die niedrigsten Gebühren. Andere Auszahlungen können zusätzliche Gebühren von Drittanbietern enthalten.",
       "LOWEST_FEES_WITH_USDC": "{LOWEST_FEES_HIGHLIGHT_TEXT} mit USDC",
       "MAGIC_LINK_WITHDRAW_DESCRIPTION": "Um auf die abgehobenen Gelder zuzugreifen und Ihr Magic Wallet außerhalb von dYdX wiederzuverwenden, müssen Sie Ihr Wallet zu einem anderen Wallet-Anbieter exportieren.",
@@ -1016,6 +1021,7 @@
       "UNSTAKING_PERIOD": "Unstaking-Zeitraum",
       "PREVIEW_UNSTAKE": "Vorschau Unstake",
       "VALIDATOR": "Validator",
+      "VALIDATORS": "Validatoren",
       "UNSTAKING_PERIOD_DESCRIPTION": "Der Unstaking-Zeitraum kann bis zu 30 Tage dauern und Sie verdienen keine Prämien auf diesen Saldo."
     },
     "STAKE_CONFIRMATION_MODAL": {
@@ -1023,8 +1029,8 @@
       "STAKE_CONFIRMATION_DESCRIPTOR": "Nach der Bestätigung verdienen Sie Prämien in USDC. Denken Sie daran, dass das Unstaking 30 Tage dauert."
     },
     "UNSTAKE_CONFIRMATION_MODAL": {
-       "CONFIRM_UNSTAKE": "Unstake bestätigen",
-       "UNSTAKE_CONFIRMATION_DESCRIPTOR": "Nach der Bestätigung werden Sie keine Prämien mehr für den gestakten Betrag verdienen. Alle nicht beanspruchten Prämien von diesem Validator werden automatisch beansprucht. Das Unstaking dauert 30 Tage."
+      "CONFIRM_UNSTAKE": "Unstake bestätigen",
+      "UNSTAKE_CONFIRMATION_DESCRIPTOR": "Nach der Bestätigung werden Sie keine Prämien mehr für den gestakten Betrag verdienen. Alle nicht beanspruchten Prämien von diesem Validator werden automatisch beansprucht. Das Unstaking dauert 30 Tage."
     },
     "FEEDBACK_MODAL": {
       "FEEDBACK_PLACEHOLDER": "Sagen Sie uns, wie wir für Sie ein besseres Handelserlebnis schaffen können. Für Fragen oder Fehlerberichte verwenden Sie bitte den Hilfe-Chat.",
@@ -1302,6 +1308,7 @@
       "MARKET_SELL": "Markt verkaufen",
       "MAXIMUM_POSITION_SIZE": "Maximale Positionsgröße",
       "MID_MARKET": "Mittleres Marktsegment",
+      "MID_MARKET_PRICE_SHORT": "Mitte",
       "MODIFY_GOOD_TIL": "Good Til ändern",
       "MODIFY_PRICE": "Preis ändern",
       "MODIFY_SIZE_FIELD": "Betrag ändern",
@@ -1519,6 +1526,19 @@
       "YOUR_LEAGUE": "Ihre Liga",
       "YOURE_IN": "Sie sind in der {LEAGUE}"
     },
+    "VAULTS": {
+      "VAULT": "Vault",
+      "YOUR_ALL_TIME_PNL": "Ihr Allzeit-G&V",
+      "VAULT_THIRTY_DAY_APR": "30d APR",
+      "VAULT_THIRTY_DAY_PNL": "30T G&V",
+      "YOUR_VAULT_BALANCE": "Ihr Vault-Guthaben",
+      "VIEW_VAULT": "Vault anzeigen",
+      "VAULT_EQUITY": "Vault-Aktien",
+      "VAULT_PNL": "Vault P&L",
+      "YOUR_DEPOSITS_AND_WITHDRAWALS": "Ihre Einzahlungen und Auszahlungen",
+      "YOU_HAVE_NO_VAULT_DEPOSITS": "Sie haben keine Tresoreinzahlungen .",
+      "TVL": "TVL"
+    },
     "NOTIFICATIONS": {
       "66_REDUCTION": "66 % Rabatt",
       "ADJUSTED_IMR": "Angepasste Marge",
@@ -1651,6 +1671,7 @@
       "COMPLIANCE_BODY": "da Sie anscheinend in einem Land ansässig sind oder von einem Land aus handeln, das gegen unsere Nutzungsbedingungen verstößt, und die Bestätigung Ihres Wohnsitzlandes und des Standortes, von dem aus Sie handeln, noch nicht abgeschlossen haben, wurden Sie für die Platzierung anderer Orders als Market-Orders gesperrt, die Ihre Positionen reduzieren.",
       "COMPLIANCE_BODY_FIRST_OFFENSE_1": "da Sie anscheinend in einem Land ansässig sind oder von einem Land aus handeln, das gegen unsere Nutzungsbedingungen verstößt, und die Bestätigung Ihres Wohnsitzlandes und des Standortes, von dem aus Sie handeln, noch nicht abgeschlossen haben, wurden Sie für die Platzierung anderer Orders als Market-Orders gesperrt, die Ihre Positionen reduzieren.",
       "COMPLIANCE_BODY_FIRST_OFFENSE_2": "Wenn Sie freigeschaltet werden möchten, bestätigen Sie bitte (1) Ihr Wohnsitzland und (2) Ihre Einhaltung der Nutzungsbedingungen. Wenn Sie die Bestätigung abschließen und Ihr Konto entsperrt wird, beachten Sie bitte, dass jeder zukünftige Verstoß gegen unsere Nutzungsbedingungen zu einer dauerhaften Sperrung für das Protokoll führt – obwohl Ihr Geld immer zur Auszahlung verfügbar sein wird.",
+      "COMPLIANCE_BODY_FIRST_OFFENSE_3": "WARNUNG: Sobald Sie Ihr Land des Wohnsitzes bestätigen, wird Ihr Zugang zu dieser Website gesperrt, bis Sie sich nicht mehr in einer Gerichtsbarkeit befinden, die gegen unsere Nutzungsbedingungen verstößt. Jeder weitere Versuch, eine Verbindung zu dieser Website aus der eingeschränkten Gerichtsbarkeit herzustellen, führt zu einer dauerhaften Sperrung.",
       "COMPLIANCE_ACKNOWLEDGEMENT": "Ich habe die Nutzungsbedingungen gelesen und bestätige, dass ich mit den Nutzungsbedingungen übereinstimme, einschließlich des Verbots für Personen oder Organisationen in den Vereinigten Staaten, Kanada oder anderen eingeschränkten Gerichtsbarkeiten.",
       "COMPLIANCE_REQUEST": "Compliance-Anfrage",
       "CONTINUE": "Weiter",
@@ -1965,6 +1986,7 @@
       "SELECT_A_THEME": "Farbdesign auswählen"
     },
     "GLOBAL_COMMANDS": {
+      "COMMANDS": "Befehle",
       "SET_CLASSIC_DARK_THEME": "Klassisches Dunkles Thema festlegen",
       "SET_SYSTEM_THEME": "Systemthema festlegen",
       "SET_DARK_THEME": "Dunkles Thema festlegen",
@@ -2016,8 +2038,8 @@
       "VIEW_PROPOSAL": "Vorschlag anzeigen"
     },
     "COMPLIANCE": {
-      "CLOSE_ONLY_MESSAGE": "Da Sie Ihren Wohnsitz offenbar in einer Gerichtsbarkeit haben oder von einer Gerichtsbarkeit aus handeln, die gegen unsere Nutzungsbedingungen verstößt, oder in Aktivitäten verwickelt sind, die gegen unsere Nutzungsbedingungen verstoßen, wurden Sie gesperrt. Sie haben bis {DATE}zum Auszahlen Ihrer Gelder, bevor Ihr Zugriff auf das Frontend gesperrt ist. Wenn sie meinen, dass ein Fehler aufgetreten ist, senden Sie bitte eine E-{EMAIL}Mail.",
-      "PERMANENTLY_BLOCKED_MESSAGE": "Da Sie in einer Gerichtsbarkeit ansässig zu sein scheinen oder von einer Gerichtsbarkeit aus zu handeln, die gegen unsere Nutzungsbedingungen verstößt und Ihnen zuvor die Möglichkeit gegeben wurde, Umstände zu beheben, die zu Einschränkungen für Ihr Konto geführt haben, wurden Sie dauerhaft gesperrt. Wenn sie meinen, dass ein Fehler aufgetreten ist, senden Sie bitte eine E-{EMAIL}Mail.",
+      "CLOSE_ONLY_MESSAGE_WITH_HELP": "Da Sie Ihren Wohnsitz offenbar in einer Gerichtsbarkeit haben oder von einer Gerichtsbarkeit aus handeln, die gegen unsere Nutzungsbedingungen verstößt, oder in Aktivitäten verwickelt sind, die gegen unsere Nutzungsbedingungen verstoßen, wurden Sie gesperrt. Sie haben bis {DATE}zum Auszahlen Ihrer Gelder, bevor Ihr Zugriff auf das Frontend gesperrt ist. Wenn Sie meinen, dass ein Fehler aufgetreten ist, wenden Sie sich bitte an den Support unter {HELP_LINK}.",
+      "PERMANENTLY_BLOCKED_MESSAGE_WITH_HELP": "Da Sie in einer Gerichtsbarkeit ansässig zu sein scheinen oder von einer Gerichtsbarkeit aus zu handeln, die gegen unsere Nutzungsbedingungen verstößt und Ihnen zuvor die Möglichkeit gegeben wurde, Umstände zu beheben, die zu Einschränkungen für Ihr Konto geführt haben, wurden Sie dauerhaft gesperrt. Wenn Sie meinen, dass ein Fehler aufgetreten ist, wenden Sie sich bitte an den Support unter {HELP_LINK}.",
       "BLOCKED_MESSAGE": "Perpetuals sind nicht für Personen verfügbar, die in einem gesperrten Land oder einem eingeschränkten Gebiet ansässig oder eingetragen sind oder einen registrierten Vertreter in einem gesperrten Land oder einem eingeschränkten Gebiet haben. Weitere Details finden Sie in unseren {TERMS_OF_USE_LINK}."
     }
   },
@@ -2182,7 +2204,8 @@
       "USER_MAX_ORDERS_FOR_TOP_EQUITY_TIER": "Dieser Auftrag würde Sie über das Limit der {LIMIT}offenen Aufträge bringen.",
       "WOULD_NOT_REDUCE": "Ihre Position wird nicht reduziert, wenn die Order ausgeführt wird.",
       "WOULD_NOT_REDUCE_UNCHECK": "Ihre Position würde mit dieser Order nicht reduziert werden. Bitte deaktivieren Sie „Nur reduzieren“, wenn Sie Ihre Bestellung aufgeben möchten.",
-      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Til überschreitet die maximale Dauer von 90 Tagen."
+      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Til überschreitet die maximale Dauer von 90 Tagen.",
+      "POSITION_LEVERAGE_OVER_MAX": "Die resultierende Positionshebelwirkung würde über der maximalen Hebelwirkung für diesen Markt liegen."
     },
     "TRADE_BOX_TITLE": {
       "AMOUNT_INPUT_STEP_SIZE": "Step Size",
