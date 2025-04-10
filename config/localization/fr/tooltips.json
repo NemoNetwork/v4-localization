@@ -1,11 +1,11 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "Votre adresse dYdX Chain \"{DYDX_ADDRESS}\" a été créée à partir de la signature de l'adresse Ethereum \"{EVM_ADDRESS}\"."
+      "BODY": "Votre adresse NEMO Chain \"{DYDX_ADDRESS}\" a été créée à partir de la signature de l'adresse Ethereum \"{EVM_ADDRESS}\"."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Legacy Signing",
-      "BODY": "Ne cochez cette option que si vous avez déjà utilisé la signature de portefeuille matériel \/ la signature héritée pour générer vos clés."
+      "BODY": "Ne cochez cette option que si vous avez déjà utilisé la signature de portefeuille matériel / la signature héritée pour générer vos clés."
     },
     "REMEMBER_ME": {
       "TITLE": "Remember Me",
@@ -109,7 +109,7 @@
     },
     "LIMIT_PRICE_LEARN_MORE": {
       "TITLE": "Prix à cours limité",
-      "BODY": "En identifiant un prix limite, vous placez un ordre limite de prise de bénéfice et\/ou un ordre limite d'arrêt. Cliquez ici {DOCUMENTATION_LINK}pour plus de détails."
+      "BODY": "En identifiant un prix limite, vous placez un ordre limite de prise de bénéfice et/ou un ordre limite d'arrêt. Cliquez ici {DOCUMENTATION_LINK}pour plus de détails."
     },
     "LIMIT_PRICE_SLIPPAGE": {
       "TITLE": "Slippage",
@@ -153,7 +153,7 @@
     },
     "NET_FUNDING": {
       "TITLE": "Financement net",
-      "BODY": "Financement total gagné \/ payé pour la durée de vie de la position actuelle. Réinitialise si vous fermez votre position ou changez de côté de position (long à short, ou vice versa)."
+      "BODY": "Financement total gagné / payé pour la durée de vie de la position actuelle. Réinitialise si vous fermez votre position ou changez de côté de position (long à short, ou vice versa)."
     },
     "OPEN_INTEREST": {
       "TITLE": "Intérêt ouvert",
@@ -192,8 +192,8 @@
       "BODY": "La différence entre le prix d'exécution attendu pour votre ordre et le meilleur ordre du côté acheteur ou vendeur. Cela augmentera pour les tailles de transactions plus importantes."
     },
     "REALIZED_PNL": {
-      "TITLE": "Bénéfice \/ Perte réalisé",
-      "BODY": "Bénéfice \/ perte total réalisé pour cette position par le biais de clôtures partielles, de frais et de financement. Réinitialise si vous fermez complètement votre position ou changez de côté de position (long à short, ou vice versa)."
+      "TITLE": "Bénéfice / Perte réalisé",
+      "BODY": "Bénéfice / perte total réalisé pour cette position par le biais de clôtures partielles, de frais et de financement. Réinitialise si vous fermez complètement votre position ou changez de côté de position (long à short, ou vice versa)."
     },
     "REDUCE_ONLY": {
       "TITLE": "Reduce-Only",
@@ -253,11 +253,11 @@
     },
     "TRIGGER_PRICE": {
       "TITLE": "Prix de déclenchement",
-      "BODY": "Lorsque le prix d'oracle de ce marché croise votre prix de déclenchement, votre ordre Stop\/Take Profit sera soit converti en ordre de limite, soit exécuté en tant qu'ordre au marché."
+      "BODY": "Lorsque le prix d'oracle de ce marché croise votre prix de déclenchement, votre ordre Stop/Take Profit sera soit converti en ordre de limite, soit exécuté en tant qu'ordre au marché."
     },
     "UNREALIZED_PNL": {
-      "TITLE": "Bénéfice \/ Perte non réalisé",
-      "BODY": "Perte\/bénéfice total si vous deviez fermer complètement le reste de votre position actuelle au prix actuel d'oracle. Réinitialise si vous fermez votre position ou changez de côté de position (longue à courte, ou vice versa)."
+      "TITLE": "Bénéfice / Perte non réalisé",
+      "BODY": "Perte/bénéfice total si vous deviez fermer complètement le reste de votre position actuelle au prix actuel d'oracle. Réinitialise si vous fermez votre position ou changez de côté de position (longue à courte, ou vice versa)."
     },
     "REWARD_HISTORY": {
       "BODY": "L'heure est affichée en temps universel coordonné (UTC)"

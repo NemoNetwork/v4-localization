@@ -1,11 +1,11 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "Tu dirección de cadena dYdX \"{DYDX_ADDRESS}\" se creó a partir de la firma de la dirección Ethereum \"{EVM_ADDRESS}\"."
+      "BODY": "Tu dirección de cadena NEMO \"{DYDX_ADDRESS}\" se creó a partir de la firma de la dirección Ethereum \"{EVM_ADDRESS}\"."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Firma de patrimonio",
-      "BODY": "Solo marca esta opción si anteriormente has utilizado la firma de billetera de hardware\/firma patrimonial para generar tus claves."
+      "BODY": "Solo marca esta opción si anteriormente has utilizado la firma de billetera de hardware/firma patrimonial para generar tus claves."
     },
     "REMEMBER_ME": {
       "TITLE": "Recordarme",
@@ -101,7 +101,7 @@
     },
     "LEVERAGE": {
       "TITLE": "Apalancar",
-      "BODY": "El apalancamiento cambia el multiplicador de tus ganancias o pérdidas. Aumentar tu apalancamiento aumenta cuánto ganarías\/perderías en una operación con el mismo movimiento de precios."
+      "BODY": "El apalancamiento cambia el multiplicador de tus ganancias o pérdidas. Aumentar tu apalancamiento aumenta cuánto ganarías/perderías en una operación con el mismo movimiento de precios."
     },
     "LIMIT_PRICE": {
       "TITLE": "Precio límite",
@@ -109,7 +109,7 @@
     },
     "LIMIT_PRICE_LEARN_MORE": {
       "TITLE": "Precio límite",
-      "BODY": "Al identificar un precio límite, estás colocando una Take Profit Limit Order (con toma de ganancias) y\/o una Stop Limit Order (con precio mínimo). Haz clic {DOCUMENTATION_LINK} para obtener más detalles."
+      "BODY": "Al identificar un precio límite, estás colocando una Take Profit Limit Order (con toma de ganancias) y/o una Stop Limit Order (con precio mínimo). Haz clic {DOCUMENTATION_LINK} para obtener más detalles."
     },
     "LIMIT_PRICE_SLIPPAGE": {
       "TITLE": "Deslizamiento",
@@ -153,7 +153,7 @@
     },
     "NET_FUNDING": {
       "TITLE": "Financiación neta",
-      "BODY": "Financiación total ganada\/pagada durante el período de vida de la posición actual. Se restablece si cierras tu posición o cambias los lados de la posición (de largo a corto o viceversa)."
+      "BODY": "Financiación total ganada/pagada durante el período de vida de la posición actual. Se restablece si cierras tu posición o cambias los lados de la posición (de largo a corto o viceversa)."
     },
     "OPEN_INTEREST": {
       "TITLE": "Interés abierto",
@@ -192,8 +192,8 @@
       "BODY": "La diferencia entre el precio de ejecución previsto para su orden y la mejor orden en el lado de la oferta o la demanda. Esto aumentará para volúmenes de operación más altos."
     },
     "REALIZED_PNL": {
-      "TITLE": "Beneficio\/pérdida realizada",
-      "BODY": "Ganancia\/pérdida total realizada para esta posición a través de cierres parciales, tasas y financiamiento. Se restablece si cierras completamente tu posición o cambias de lugar en la posición (largo a corto, o viceversa)."
+      "TITLE": "Beneficio/pérdida realizada",
+      "BODY": "Ganancia/pérdida total realizada para esta posición a través de cierres parciales, tasas y financiamiento. Se restablece si cierras completamente tu posición o cambias de lugar en la posición (largo a corto, o viceversa)."
     },
     "REDUCE_ONLY": {
       "TITLE": "Solo reducir",
@@ -256,8 +256,8 @@
       "BODY": "Cuando el precio de oráculo de este mercado se cruza con tu \"trigger price\" (precio disparador), tu orden de detención o toma de ganancias se convertirá en una orden limitada o se ejecutará como una orden de mercado."
     },
     "UNREALIZED_PNL": {
-      "TITLE": "Ganancia\/pérdida no realizado",
-      "BODY": "La ganancia\/pérdida total si cerraras por completo el resto de tu posición actual al precio de oráculo actual. Se restablece si cierras tu posición o cambias los lados de la posición (de largo a corto o viceversa)."
+      "TITLE": "Ganancia/pérdida no realizado",
+      "BODY": "La ganancia/pérdida total si cerraras por completo el resto de tu posición actual al precio de oráculo actual. Se restablece si cierras tu posición o cambias los lados de la posición (de largo a corto o viceversa)."
     },
     "REWARD_HISTORY": {
       "BODY": "La hora se muestra en Hora Universal Coordinada (UTC)"

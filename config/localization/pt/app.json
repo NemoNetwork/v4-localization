@@ -111,7 +111,7 @@
       "DECREASED": "diminuiu",
       "DECREASING": "Redução",
       "DEFAULT": "Padrão",
-      "DEFAULT_TO_ALL_MARKETS_IN_POSITIONS": "Padrão para todos os mercados em posições\/ordens\/ordens executadas",
+      "DEFAULT_TO_ALL_MARKETS_IN_POSITIONS": "Padrão para todos os mercados em posições/ordens/ordens executadas",
       "DEFI": "DeFi",
       "DEGRADED": "Degradado",
       "DEPOSIT_FUNDS": "Depositar fundos",
@@ -129,8 +129,8 @@
       "DONE": "Feito",
       "DONT_SHOW_ME_AGAIN": "Não me mostre isso novamente",
       "DOWNLOAD_MOBILE_APP": "Baixar aplicativo móvel",
-      "DYDX_CHAIN_ADDRESS": "Endereço de cadeia dYdX",
-      "DYDX_CHAIN": "Cadeia dYdX",
+      "NEMO_CHAIN_ADDRESS": "Endereço de cadeia NEMO",
+      "NEMO_CHAIN": "Cadeia NEMO",
       "EARNED": "Ganho",
       "EDIT": "Editar",
       "EG": "ex.:",
@@ -263,11 +263,11 @@
       "PRIVACY": "Privacidade",
       "PRIZE": "Prêmio",
       "PROFILE": "Perfil",
-      "PROFIT_AND_LOSS_ABSOLUTE_BY": "Por lucro \/ perda",
-      "PROFIT_AND_LOSS_ABSOLUTE_LABEL": "Lucro \/ perda ($)",
+      "PROFIT_AND_LOSS_ABSOLUTE_BY": "Por lucro / perda",
+      "PROFIT_AND_LOSS_ABSOLUTE_LABEL": "Lucro / perda ($)",
       "PROFIT_AND_LOSS_ABSOLUTE": "L&P absoluto",
-      "PROFIT_AND_LOSS_PERCENT_BY": "Por lucro \/ perda (percentagem)",
-      "PROFIT_AND_LOSS_PERCENT_LABEL": "Lucro \/ perda (%)",
+      "PROFIT_AND_LOSS_PERCENT_BY": "Por lucro / perda (percentagem)",
+      "PROFIT_AND_LOSS_PERCENT_LABEL": "Lucro / perda (%)",
       "PROFIT_AND_LOSS_PERCENT": "L&P relativo",
       "PROMOTION": "Promoção",
       "QUERY_NOT_FOUND": "“{QUERY}” não encontrado",
@@ -318,7 +318,7 @@
       "STARTED_FROM_DATE": "Iniciado {FROM_DATE}",
       "STATISTICS": "Estatísticas",
       "STATUS": "Status",
-      "STEP_SIZE": "Intervalo de aumento\/redução",
+      "STEP_SIZE": "Intervalo de aumento/redução",
       "STOP_ORDER_SHORT": "Parar",
       "SWITCH_LEADERBOARD": "Mudar com o Leaderboard",
       "TAKE_ME_THERE": "Leve-me até lá",
@@ -327,7 +327,7 @@
       "TICKER": "Ticker",
       "TIER": "Nível",
       "TIME": "Tempo",
-      "TIMESTAMP_ERROR": "Erro de carimbo de data\/hora",
+      "TIMESTAMP_ERROR": "Erro de carimbo de data/hora",
       "FROM": "de {FROM}",
       "TO": "para {TO}",
       "TOTAL_BALANCE": "Saldo total",
@@ -816,7 +816,7 @@
       "FINISH_ONBOARDING_DESCRIPTION": "Conclua o processo de integração para começar a negociar na dYdX",
       "FREE_SIGNING": "Assinar é {FREE} e não enviará uma transação.",
       "GASLESS_ONBOARDING_RULES": "Regras de Entrada Sem Custo de Compra",
-      "GENERATE_DYDX_WALLET": "Gerar sua carteira da cadeia dYdX",
+      "GENERATE_NEMO_WALLET": "Gerar sua carteira da cadeia NEMO",
       "GENERATE_KEYS": "Gerar chaves dYdX",
       "GENERATE_KEYS_DESCRIPTION": "As chaves permitem que você acesse sua conta",
       "GENERATE_KEYS_FOOTER": "Gerar chaves dYdX é gratuito e requer uma assinatura de sua carteira. Você pode recriar suas chaves a qualquer momento usando sua carteira.",
@@ -1076,7 +1076,7 @@
       "PROFILE_SHARE_USERNAME": "Mostrar meu nome de usuário",
       "PROFILE_SHARE_ADDRESS": "Mostrar meu endereço de carteira",
       "SAVE_ORDER_AMOUNT": "Salvar valor do pedido",
-      "TAKE_PROFIT_STOP_LOSS": "Take Profit \/ Stop Loss"
+      "TAKE_PROFIT_STOP_LOSS": "Take Profit / Stop Loss"
     },
     "MORE_LINKS_MODAL": {
       "DOCUMENTATION_DESCRIPTION": "Faça trades com nossa API",
@@ -1104,7 +1104,7 @@
       "AVG_ENTRY_PRICE": "Média Preço de entrada",
       "CUSTOM_AMOUNT_TOOLTIP": "O ajuste do seu valor personalizado será aplicado às ordens de Take Profit e Stop Loss.",
       "ENTER_TRIGGERS": "Insira gatilho(s)",
-      "LIMIT_PRICE_TOOLTIP": "Ao identificar um preço limite, você está aplicando uma ordem de limite Take Profit e\/ou Stop Limit. Clique em {DOCUMENTATION_LINK} para mais detalhes.",
+      "LIMIT_PRICE_TOOLTIP": "Ao identificar um preço limite, você está aplicando uma ordem de limite Take Profit e/ou Stop Limit. Clique em {DOCUMENTATION_LINK} para mais detalhes.",
       "MULTIPLE_ORDERS_FOUND": "Várias ordens encontradas.",
       "PRICE_TRIGGERS": "Gatilhos de preço",
       "PRICE_TRIGGERS_DESCRIPTION": "Minimize perdas e proteja lucros com gatilhos.",
@@ -1239,7 +1239,7 @@
       "AVERAGE_CLOSE": "Média de posições fechadas",
       "AVERAGE_CLOSE_SHORT": "Fechar",
       "AVERAGE_OPEN": "Média de posições abertas",
-      "AVERAGE_OPEN_CLOSE": "Média Abrir \/ Fechar",
+      "AVERAGE_OPEN_CLOSE": "Média Abrir / Fechar",
       "AVERAGE_OPEN_SHORT": "Abrir",
       "BASELINE_POSITION_SIZE": "Tamanho de posições de linha de base",
       "BEST_EFFORT_CANCELED": "Melhor esforço de cancelamento",
@@ -1249,7 +1249,7 @@
       "BRACKET_ORDER_SHORT_STOP_LOSS_DESCRIPTION": "Se o {ASSET} aumentar a um determinado valor, dispare um {ACTION}para evitar perdas.",
       "BRACKET_ORDER_SHORT_TAKE_PROFIT_DESCRIPTION": "Se {ASSET} cair para um preço fixo, dispare {ACTION} um para obter lucros.",
       "BUY_MARK_TOOLTIP": "Comprado   {ASSET_SIZE}{ASSET}em {PRICE}",
-      "BUYS_SELLS_TOGGLE": "Compras\/vendas",
+      "BUYS_SELLS_TOGGLE": "Compras/vendas",
       "BUYS_SELLS_TOGGLE_TOOLTIP": "Exibir compras e vendas históricas",
       "CANCEL_ALL": "Cancelar tudo",
       "CANCEL_ORDER": "Cancelar ordem",
@@ -1279,7 +1279,7 @@
       "EDIT_MARGIN": "Editar margem",
       "EDIT_STOP_LOSS": "Editar stop loss",
       "EDIT_TAKE_PROFIT": "Editar take profit",
-      "EDIT_TAKE_PROFIT_STOP_LOSS_TRIGGERS": "Editar disparos Take Profit\/Stop Loss",
+      "EDIT_TAKE_PROFIT_STOP_LOSS_TRIGGERS": "Editar disparos Take Profit/Stop Loss",
       "ENTER_AMOUNT": "Digite o valor",
       "ENTER_LIMIT_PRICE": "Digite o preço limite",
       "ENTER_TRIGGER_PRICE": "Digite o preço de disparo",
@@ -1913,7 +1913,7 @@
       "MODAL_BUY_CTA": "Compre USDC",
       "MODAL_CONFIRMATION": "Complete o fluxo de ordens na Banxa para comprar USDC sem taxas de gás. Verifique o status da sua ordem no e-mail ou entre em contato com o suporte de {BANXA_SUPPORT_LINK}",
       "MODAL_CONFIRMATION_TITLE": "Termine na Banxa",
-      "MODAL_LEGAL_DISCLAIMER": "Ao clicar em \"Comprar USDC\", você reconhece e concorda que este serviço é fornecido a você diretamente por Banxa.com Pty Ltd. (\"Banxa\") e não tem relação com a dYdX trading, Inc. (\"dYdX\"); este serviço e qualquer compra ou venda de criptomoeda por valor (incluindo fiat, criptomoeda e empréstimo) ocorrerão somente após você sair da página do site e do protocolo dYdX; além disso, qualquer transmissão de valor (incluindo valor de envio, recebimento e custódia) ocorrerão diretamente entre a rede Ethereum e a Banxa. Este serviço não está disponível para quaisquer pessoas que estejam nos Estados Unidos. Você também concorda que qualquer informação solicitada pela Banxa (incluindo o número de cartão e KYC) não será fornecida para a dYdX. Desse modo, você não responsabilizará a dYdX por nenhum aspecto das transações ou transmissões realizadas entre você e a Banxa. Em caso de conflitos, a versão em inglês desta declaração prevalecerá e pode ser encontrada nos Termos de Uso da dYdX, disponíveis em https:\/\/dydx.exchange\/legal. ",
+      "MODAL_LEGAL_DISCLAIMER": "Ao clicar em \"Comprar USDC\", você reconhece e concorda que este serviço é fornecido a você diretamente por Banxa.com Pty Ltd. (\"Banxa\") e não tem relação com a dYdX trading, Inc. (\"dYdX\"); este serviço e qualquer compra ou venda de criptomoeda por valor (incluindo fiat, criptomoeda e empréstimo) ocorrerão somente após você sair da página do site e do protocolo dYdX; além disso, qualquer transmissão de valor (incluindo valor de envio, recebimento e custódia) ocorrerão diretamente entre a rede Ethereum e a Banxa. Este serviço não está disponível para quaisquer pessoas que estejam nos Estados Unidos. Você também concorda que qualquer informação solicitada pela Banxa (incluindo o número de cartão e KYC) não será fornecida para a dYdX. Desse modo, você não responsabilizará a dYdX por nenhum aspecto das transações ou transmissões realizadas entre você e a Banxa. Em caso de conflitos, a versão em inglês desta declaração prevalecerá e pode ser encontrada nos Termos de Uso da dYdX, disponíveis em https://dydx.exchange/legal. ",
       "MODAL_NEED_HELP": "Precisa de ajuda?",
       "MODAL_SUBTITLE": "Compre USDC via Banxa. Os fundos serão depositados diretamente na sua conta, {NO_GAS_FEES_STYLED}.",
       "NO_GAS_FEES_STYLED": "sem necessidade de taxas de “gas”",
@@ -2221,7 +2221,7 @@
       "RATE_LIMIT_REACHED_ERROR_MESSAGE": "Taxa limitada alcançada para esse endereço IP. Tente novamente mais tarde.",
       "SOMETHING_WENT_WRONG_WITH_MESSAGE": "Algo deu errado: {ERROR_MESSAGE}",
       "SOMETHING_WENT_WRONG": "Algo deu errado. Tente novamente mais tarde.",
-      "TIMESTAMP_DISCREPANCY": "Como medida de segurança, verificamos os carimbos de data\/hora ao autenticar sua conta. Certifique-se de que o relógio do sistema esteja sincronizado corretamente e atualize o aplicativo."
+      "TIMESTAMP_DISCREPANCY": "Como medida de segurança, verificamos os carimbos de data/hora ao autenticar sua conta. Certifique-se de que o relógio do sistema esteja sincronizado corretamente e atualize o aplicativo."
     },
     "TRADE_BOX": {
       "AMOUNT_INPUT_STEP_SIZE": "Valor da ordem deve ser um fator de {STEP_SIZE}.",
@@ -2271,7 +2271,7 @@
       "POSITION_LEVERAGE_OVER_MAX": "A alavancagem da posição resultante seria superior à alavancagem máxima para este mercado."
     },
     "TRADE_BOX_TITLE": {
-      "AMOUNT_INPUT_STEP_SIZE": "Intervalo de aumento\/redução",
+      "AMOUNT_INPUT_STEP_SIZE": "Intervalo de aumento/redução",
       "INVALID_LARGE_POSITION_LEVERAGE": "Alavancagem inválida",
       "INVALID_NEW_ACCOUNT_MARGIN_USAGE": "Margem muito elevada",
       "INVALID_NEW_POSITION_LEVERAGE": "Alavancagem inválida",
@@ -2430,7 +2430,7 @@
       "TRANSFERS_PAUSED_ACTION": "Transferências interrompidas"
     },
     "ONBOARDING": {
-      "ALWAYS_VERIFY_URL": "Ao recuperar suas chaves, verifique sempre se está no site https:\/\/trade.dydx.exchange."
+      "ALWAYS_VERIFY_URL": "Ao recuperar suas chaves, verifique sempre se está no site https://trade.dydx.exchange."
     },
     "TRADE_BOX": {
       "LIMIT_PRICE_TRIGGER_PRICE_SLIPPAGE_HIGHER": "A slippage nessa ordem é baixa — recomendamos um preço limite de ${LIMIT_PRICE}ou superior para melhorar suas chances de executar essa ordem. Sua ordem será executada pelo melhor preço possível quando for disparada.",
