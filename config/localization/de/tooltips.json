@@ -1,11 +1,11 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "Ihre dYdX-Chain-Adresse „{DYDX_ADDRESS}“ wurde aus der Signatur der Ethereum-Adresse „{EVM_ADDRESS}“ erstellt."
+      "BODY": "Ihre NEMO-Chain-Adresse „{DYDX_ADDRESS}“ wurde aus der Signatur der Ethereum-Adresse „{EVM_ADDRESS}“ erstellt."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Legacy Signing",
-      "BODY": "Kreuzen Sie diese Option nur dann an, wenn Sie zuvor Hardware Wallet Signing \/ Legacy Signing zur Erstellung Ihrer Keys verwendet haben."
+      "BODY": "Kreuzen Sie diese Option nur dann an, wenn Sie zuvor Hardware Wallet Signing / Legacy Signing zur Erstellung Ihrer Keys verwendet haben."
     },
     "REMEMBER_ME": {
       "TITLE": "Automatische Anmeldung",
@@ -101,7 +101,7 @@
     },
     "LEVERAGE": {
       "TITLE": "Hebelwirkung",
-      "BODY": "Die Hebelwirkung ändert das Ausmaß Ihrer Gewinne oder Verluste. Erhöhen Sie Ihre Leverage, erhöht sich der Gewinn\/Verlust, den Sie bei einem Trade mit der gleichen Kursbewegung erzielen würden."
+      "BODY": "Die Hebelwirkung ändert das Ausmaß Ihrer Gewinne oder Verluste. Erhöhen Sie Ihre Leverage, erhöht sich der Gewinn/Verlust, den Sie bei einem Trade mit der gleichen Kursbewegung erzielen würden."
     },
     "LIMIT_PRICE": {
       "TITLE": "Limit-Preis",
@@ -109,7 +109,7 @@
     },
     "LIMIT_PRICE_LEARN_MORE": {
       "TITLE": "Limit-Preis",
-      "BODY": "Durch die Bestimmung eines Limitpreises platzieren Sie eine Take-Profit-Limit-Order und\/oder eine Stop-Limit-Order. Klicken  Sie {DOCUMENTATION_LINK}für weitere Details."
+      "BODY": "Durch die Bestimmung eines Limitpreises platzieren Sie eine Take-Profit-Limit-Order und/oder eine Stop-Limit-Order. Klicken  Sie {DOCUMENTATION_LINK}für weitere Details."
     },
     "LIMIT_PRICE_SLIPPAGE": {
       "TITLE": "Slippage",
@@ -153,7 +153,7 @@
     },
     "NET_FUNDING": {
       "TITLE": "Nettofinanzierung",
-      "BODY": "Verdiente \/ bezahlte Gesamtfinanzierung für die Laufzeit der aktuellen Position. Wird zurückgesetzt, wenn Sie Ihre Position schließen oder die Position wechseln (Long zu Short oder umgekehrt)"
+      "BODY": "Verdiente / bezahlte Gesamtfinanzierung für die Laufzeit der aktuellen Position. Wird zurückgesetzt, wenn Sie Ihre Position schließen oder die Position wechseln (Long zu Short oder umgekehrt)"
     },
     "OPEN_INTEREST": {
       "TITLE": "Offener Anteil",
@@ -192,8 +192,8 @@
       "BODY": "Der Unterschied zwischen dem erwarteten Ausführungspreis für Ihre Order und der bestmöglichen Order auf der Angebots- bzw. Nachfrageseite. Dies wird sich für größere Tradingumfänge erhöhen."
     },
     "REALIZED_PNL": {
-      "TITLE": "Realisierter Gewinn \/ Verlust",
-      "BODY": "Gesamter realisierter Gewinn \/ Verlust für diese Position durch partielle Closes, Gebühren und Finanzierung. Wird zurückgesetzt, wenn Sie Ihre Position vollständig schließen oder die Position wechseln (Long zu Short, oder umgekehrt)."
+      "TITLE": "Realisierter Gewinn / Verlust",
+      "BODY": "Gesamter realisierter Gewinn / Verlust für diese Position durch partielle Closes, Gebühren und Finanzierung. Wird zurückgesetzt, wenn Sie Ihre Position vollständig schließen oder die Position wechseln (Long zu Short, oder umgekehrt)."
     },
     "REDUCE_ONLY": {
       "TITLE": "Reduce-Only",
@@ -253,11 +253,11 @@
     },
     "TRIGGER_PRICE": {
       "TITLE": "Trigger-Preis",
-      "BODY": "Wenn der Oracle-Preis Ihren Trigger-Preis kreuzt, wird Ihre Stop\/Take-Profit Order entweder in eine Limit-Order umgewandelt oder als Market-Order ausgeführt."
+      "BODY": "Wenn der Oracle-Preis Ihren Trigger-Preis kreuzt, wird Ihre Stop/Take-Profit Order entweder in eine Limit-Order umgewandelt oder als Market-Order ausgeführt."
     },
     "UNREALIZED_PNL": {
-      "TITLE": "Nicht realisierter Gewinn \/ Verlust",
-      "BODY": "Gesamter Gewinn\/Verlust, wenn Sie den Rest Ihrer aktuellen Position zum aktuellen Oracle-Preis vollständig schließen sollten. Wird zurückgesetzt, wenn Sie Ihre Position schließen oder die Position wechseln (Long zu Short oder umgekehrt)"
+      "TITLE": "Nicht realisierter Gewinn / Verlust",
+      "BODY": "Gesamter Gewinn/Verlust, wenn Sie den Rest Ihrer aktuellen Position zum aktuellen Oracle-Preis vollständig schließen sollten. Wird zurückgesetzt, wenn Sie Ihre Position schließen oder die Position wechseln (Long zu Short oder umgekehrt)"
     },
     "REWARD_HISTORY": {
       "BODY": "Die Zeit wird in Coordinated Universal Time (UTC) angezeigt"

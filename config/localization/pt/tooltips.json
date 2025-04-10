@@ -1,11 +1,11 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "Seu endereço de cadeia dYdX \"{DYDX_ADDRESS}\" foi criado a partir da assinatura do endereço Ethereum \"{EVM_ADDRESS}\"."
+      "BODY": "Seu endereço de cadeia NEMO \"{DYDX_ADDRESS}\" foi criado a partir da assinatura do endereço Ethereum \"{EVM_ADDRESS}\"."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Assinatura legada",
-      "BODY": "Marque esta opção se você usou a assinatura de carteira hardware \/ assinatura legada para gerar suas chaves anteriormente."
+      "BODY": "Marque esta opção se você usou a assinatura de carteira hardware / assinatura legada para gerar suas chaves anteriormente."
     },
     "REMEMBER_ME": {
       "TITLE": "Lembrar-me",
@@ -101,7 +101,7 @@
     },
     "LEVERAGE": {
       "TITLE": "Alavancagem",
-      "BODY": "A alavancagem altera o multiplicador nos seus ganhos ou perdas. Aumentar sua alavancagem aumenta o quanto você ganharia \/ perderia em um trade com o mesmo movimento de preço."
+      "BODY": "A alavancagem altera o multiplicador nos seus ganhos ou perdas. Aumentar sua alavancagem aumenta o quanto você ganharia / perderia em um trade com o mesmo movimento de preço."
     },
     "LIMIT_PRICE": {
       "TITLE": "Preço limite",
@@ -109,7 +109,7 @@
     },
     "LIMIT_PRICE_LEARN_MORE": {
       "TITLE": "Preço limite",
-      "BODY": "Ao identificar um preço limite, você está realizando uma ordem limite Take Profit e\/ou Stop Limit. Clique em {DOCUMENTATION_LINK} para mais detalhes."
+      "BODY": "Ao identificar um preço limite, você está realizando uma ordem limite Take Profit e/ou Stop Limit. Clique em {DOCUMENTATION_LINK} para mais detalhes."
     },
     "LIMIT_PRICE_SLIPPAGE": {
       "TITLE": "Slippage",
@@ -153,7 +153,7 @@
     },
     "NET_FUNDING": {
       "TITLE": "Financiamento líquido",
-      "BODY": "Financiamento total ganho \/ pago para a vida útil da posição atual. É redefinido se você fechar sua posição ou alterar o tipo de posição (long para short, ou vice-versa)."
+      "BODY": "Financiamento total ganho / pago para a vida útil da posição atual. É redefinido se você fechar sua posição ou alterar o tipo de posição (long para short, ou vice-versa)."
     },
     "OPEN_INTEREST": {
       "TITLE": "Contratos em aberto",
@@ -192,8 +192,8 @@
       "BODY": "A diferença entre o preço de execução esperado para sua ordem e a melhor ordem na compra ou venda. Isso aumentará quanto a trades maiores."
     },
     "REALIZED_PNL": {
-      "TITLE": "Lucro\/perda realizados",
-      "BODY": "Lucro\/perda totais realizados para esta posição por meio de fechamentos parciais, taxas e financiamento. É redefinido se você fechar totalmente sua posição ou alterar o tipo de posição (long para short ou vice-versa)."
+      "TITLE": "Lucro/perda realizados",
+      "BODY": "Lucro/perda totais realizados para esta posição por meio de fechamentos parciais, taxas e financiamento. É redefinido se você fechar totalmente sua posição ou alterar o tipo de posição (long para short ou vice-versa)."
     },
     "REDUCE_ONLY": {
       "TITLE": "Apenas redução",
@@ -213,7 +213,7 @@
     },
     "STEP_SIZE": {
       "TITLE": "Tamanho do valor",
-      "BODY": "O intervalo de aumento\/redução é o menor fator permitido a valores de ordem neste mercado."
+      "BODY": "O intervalo de aumento/redução é o menor fator permitido a valores de ordem neste mercado."
     },
     "STOP_LOSS": {
       "TITLE": "Stop Loss",
@@ -253,11 +253,11 @@
     },
     "TRIGGER_PRICE": {
       "TITLE": "Preço de disparo",
-      "BODY": "Quando o preço do oráculo deste mercado cruzar seu preço de disparo, sua ordem de stop\/take profit será convertida em uma ordem limite ou será executada como uma ordem de mercado."
+      "BODY": "Quando o preço do oráculo deste mercado cruzar seu preço de disparo, sua ordem de stop/take profit será convertida em uma ordem limite ou será executada como uma ordem de mercado."
     },
     "UNREALIZED_PNL": {
-      "TITLE": "Lucros \/ perdas não realizados",
-      "BODY": "O total de lucro\/perda se você fechasse completamente o restante de sua posição atual no preço do oráculo atual. É redefinido se você fechar sua posição ou alterar o tipo de posição (long para short, ou vice-versa)."
+      "TITLE": "Lucros / perdas não realizados",
+      "BODY": "O total de lucro/perda se você fechasse completamente o restante de sua posição atual no preço do oráculo atual. É redefinido se você fechar sua posição ou alterar o tipo de posição (long para short, ou vice-versa)."
     },
     "REWARD_HISTORY": {
       "BODY": "A hora é exibida no Tempo Universal Coordenado (UTC)"
