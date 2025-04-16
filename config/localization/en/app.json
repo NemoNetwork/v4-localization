@@ -1449,6 +1449,8 @@
       "OPEN_INTEREST": "Open Interest",
       "OPEN_POSITIONS": "Open Positions",
       "OPEN_STATUS": "Open",
+      "OPEN_ORDERS_HEADER": "Open Orders",
+      "ORDER_HISTORY_HEADER": "Order History",
       "ORACLE_PRICE_ABBREVIATED": "Oracle",
       "ORACLE_PRICE": "Oracle Price",
       "ORDER_EXPIRED": "Order expired",
