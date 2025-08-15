@@ -295,6 +295,7 @@
       "SELECT": "Selecione {SELECTION}",
       "SELECT_ASSET": "Selecione um ativo",
       "SELECT_CHAIN": "Selecione uma cadeia",
+      "SELECT_WALLET_FROM_OPTIONS": "Selecione sua carteira nas opções abaixo.",
       "SELL": "Vender",
       "SEND": "Enviar",
       "SHARE": "Compartilhar",

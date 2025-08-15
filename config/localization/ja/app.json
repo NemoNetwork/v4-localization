@@ -295,6 +295,7 @@
       "SELECT": "{SELECTION}を選択する",
       "SELECT_ASSET": "資産を選択",
       "SELECT_CHAIN": "チェーンを選択",
+      "SELECT_WALLET_FROM_OPTIONS": "以下のオプションからウォレットを選択してください。",
       "SELL": "売り",
       "SEND": "送信",
       "SHARE": "シェア",

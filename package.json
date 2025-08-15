@@ -2,8 +2,24 @@
   "name": "@dydxprotocol/v4-localization",
   "version": "1.1.208",
   "description": "v4 localization",
-  "main": "index.ts",
+  "main": "build/index.js",
+  "module": "build/index.js",
+  "types": "build/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./build/index.js",
+      "require": "./build/index.js",
+      "types": "./build/index.d.ts"
+    },
+    "./src/*": {
+      "import": "./build/*.js",
+      "require": "./build/*.js",
+      "types": "./build/*.d.ts"
+    }
+  },
   "scripts": {
+    "build": "rm -rf build/ && npm run compile",
+    "compile": "tsc --project ./tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate": "npm run generate:app && npm run generate:notifications && npm run generate:tooltips",
     "generate:app": "cd scripts && ./codegen_localization_app.swift ../config/localization/en/app.json > ./generated/app.ts && cd ..",

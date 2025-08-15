@@ -295,6 +295,7 @@
       "SELECT": "选择 {SELECTION}",
       "SELECT_ASSET": "选择资产",
       "SELECT_CHAIN": "选择一条链",
+      "SELECT_WALLET_FROM_OPTIONS": "请从以下选项中选择您的钱包。",
       "SELL": "卖出",
       "SEND": "发送",
       "SHARE": "共享",

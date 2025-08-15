@@ -295,6 +295,7 @@
       "SELECT": "Seçin {SELECTION}",
       "SELECT_ASSET": "Bir varlık seçin",
       "SELECT_CHAIN": "Bir zincir seçin",
+      "SELECT_WALLET_FROM_OPTIONS": "Lütfen aşağıdaki seçeneklerden cüzdanınızı seçin.",
       "SELL": "Sat",
       "SEND": "Gönder",
       "SHARE": "Paylaş",
