@@ -338,6 +338,7 @@
       "SELECT": "Select {SELECTION}",
       "SELECT_ASSET": "Select an asset",
       "SELECT_CHAIN": "Select a chain",
+      "SELECT_WALLET_FROM_OPTIONS": "Please select your wallet from the options below.",
       "SELL": "Sell",
       "SEND": "Send",
       "SHARE": "Share",
