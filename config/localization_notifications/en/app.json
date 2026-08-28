@@ -154,7 +154,7 @@
     },
     "STOP_LOSS_TRIGGER_REMOVING_ERROR": {
       "TITLE": "Stop Loss",
-      "BODY": "Your stop loss trigger at {OLD_VALUE} could not be cancelled."
+      "BODY": "Your stop loss trigger at {OLD_VALUE} could not be canceled."
     },
     "STOP_LOSS_TRIGGER_REMOVED": {
       "TITLE": "Stop Loss",
@@ -166,7 +166,7 @@
     },
     "TAKE_PROFIT_TRIGGER_REMOVING_ERROR": {
       "TITLE": "Take Profit",
-      "BODY": "Your take profit trigger at {OLD_VALUE} could not be cancelled."
+      "BODY": "Your take profit trigger at {OLD_VALUE} could not be canceled."
     },
     "TAKE_PROFIT_TRIGGER_REMOVED": {
       "TITLE": "Take Profit",

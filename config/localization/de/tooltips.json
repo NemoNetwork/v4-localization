@@ -80,7 +80,7 @@
       "BODY": "Der maximale Auszahlungsbetrag. Wenn die Finanzierung ohne Sicherheit auf 0 steht oder negativ ist, nutzt ihr Konto ihre maximale Hebelwirkung."
     },
     "GOOD_TIL": {
-      "TITLE": "Good Til",
+      "TITLE": "Good Till",
       "BODY": "Zeit, bis Ihre Order abläuft."
     },
     "IMMEDIATE_OR_CANCEL": {
@@ -185,7 +185,7 @@
     },
     "POST_ONLY_TIMEINFORCE_GTT": {
       "TITLE": "Post-Only",
-      "BODY": "Post-Only ist nur verfügbar, wenn Time in Force auf Good Til Time festgelegt ist."
+      "BODY": "Post-Only ist nur verfügbar, wenn Time in Force auf Good Till Time festgelegt ist."
     },
     "PRICE_IMPACT": {
       "TITLE": "Auswirkung auf den Preis",

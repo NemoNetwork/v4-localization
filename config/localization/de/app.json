@@ -1306,7 +1306,7 @@
       "FUNDING_PAYMENTS": "Finanzierungszahlungen",
       "FUNDING_RATE_1H_SHORT": "1h Finanzierung",
       "FUNDING_RATE": "Geschätzte 1h Finanzierung",
-      "GOOD_TIL_DATE_ABBREVIATED": "Good Til",
+      "GOOD_TIL_DATE_ABBREVIATED": "Good Till",
       "GOOD_TIL_DATE": "Gut bis Datum",
       "GOOD_TIL_TIME": "Gut bis Zeit",
       "GOOD_TIL": "Good-till-canceled",
@@ -1340,7 +1340,7 @@
       "MAXIMUM_POSITION_SIZE": "Maximale Positionsgröße",
       "MID_MARKET": "Mittleres Marktsegment",
       "MID_MARKET_PRICE_SHORT": "Mitte",
-      "MODIFY_GOOD_TIL": "Good Til ändern",
+      "MODIFY_GOOD_TIL": "Good Till ändern",
       "MODIFY_MARGIN_AMOUNT": "Betrag ändern",
       "MODIFY_PRICE": "Preis ändern",
       "MODIFY_SIZE_FIELD": "Betrag ändern",
@@ -2268,7 +2268,7 @@
       "USER_MAX_ORDERS_FOR_TOP_EQUITY_TIER": "Dieser Auftrag würde Sie über das Limit der {LIMIT}offenen Aufträge bringen.",
       "WOULD_NOT_REDUCE": "Ihre Position wird nicht reduziert, wenn die Order ausgeführt wird.",
       "WOULD_NOT_REDUCE_UNCHECK": "Ihre Position würde mit dieser Order nicht reduziert werden. Bitte deaktivieren Sie „Nur reduzieren“, wenn Sie Ihre Bestellung aufgeben möchten.",
-      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Til überschreitet die maximale Dauer von 90 Tagen.",
+      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Till überschreitet die maximale Dauer von 90 Tagen.",
       "POSITION_LEVERAGE_OVER_MAX": "Die resultierende Positionshebelwirkung würde über der maximalen Hebelwirkung für diesen Markt liegen."
     },
     "TRADE_BOX_TITLE": {
@@ -2322,7 +2322,7 @@
       "CONNECT_WALLET_TO_TRADE": "Wallet verbinden",
       "DEPOSIT_TO_TRADE": "Einzahlung",
       "USER_MAX_ORDERS": "Zu viele offene Aufträge",
-      "INVALID_GOOD_TIL": "Ungültiger Good Til"
+      "INVALID_GOOD_TIL": "Ungültiger Good Till"
     },
     "TRIGGERS_FORM": {
       "BUY_TRIGGER_TOO_CLOSE_TO_LIQUIDATION_PRICE_NO_LIMIT": "Ihr Trigger-Preis liegt zu nahe an Ihrem Abwicklungspreis – es kann sein, dass diese Order nicht vollständig ausgeführt wird, bevor Sie für Sie abgewickelt wurde. Geben Sie bitte einen Auslösepreis unter {TRIGGER_PRICE_LIMIT}ein.",

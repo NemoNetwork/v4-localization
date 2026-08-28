@@ -80,7 +80,7 @@
       "BODY": "Le montant maximum que vous pouvez retirer. Lorsque la garantie disponible est 0 ou négative, votre compte utilise un effet de levier maximum."
     },
     "GOOD_TIL": {
-      "TITLE": "Good Til",
+      "TITLE": "Good Till",
       "BODY": "Temps jusqu'à l'expiration de votre ordre."
     },
     "IMMEDIATE_OR_CANCEL": {
@@ -185,7 +185,7 @@
     },
     "POST_ONLY_TIMEINFORCE_GTT": {
       "TITLE": "Post-Only",
-      "BODY": "Le Post-Only n'est disponible que si le Temps en vigueur est défini sur Good Til Time."
+      "BODY": "Le Post-Only n'est disponible que si le Temps en vigueur est défini sur Good Till Time."
     },
     "PRICE_IMPACT": {
       "TITLE": "Impact sur le prix",

@@ -1306,10 +1306,10 @@
       "FUNDING_PAYMENTS": "Versements de financement",
       "FUNDING_RATE_1H_SHORT": "Financement 1 h",
       "FUNDING_RATE": "Financement estimé de 1h",
-      "GOOD_TIL_DATE_ABBREVIATED": "Good Til",
+      "GOOD_TIL_DATE_ABBREVIATED": "Good Till",
       "GOOD_TIL_DATE": "Jusqu'à la date prévue",
-      "GOOD_TIL_TIME": "Good Til Time",
-      "GOOD_TIL": "Good Til",
+      "GOOD_TIL_TIME": "Good Till Time",
+      "GOOD_TIL": "Good Till",
       "HISTORICAL_FUNDING_RATE": "Taux de financement historique",
       "IMMEDIATE_OR_CANCEL": "Immédiat ou Annuler",
       "IMMEDIATE_OR_CANCEL_PARTIALLY_FILLED": "Immédiat ou annuler partiellement rempli",
@@ -2046,7 +2046,7 @@
       "SET_DEFAULT_LAYOUT": "Définir la mise en page par défaut",
       "SET_REVERSE_LAYOUT": "Définir la disposition inverse",
       "SET_ALTERNATIVE_LAYOUT": "Définir une disposition alternative",
-      "NAVIGATE_TO_MARKET": "Nagivate au marché"
+      "NAVIGATE_TO_MARKET": "Navigate au marché"
     },
     "NEW_MARKET_WIDGET": {
       "ADD_A_MARKET": "Ajouter un marché",
@@ -2268,7 +2268,7 @@
       "USER_MAX_ORDERS_FOR_TOP_EQUITY_TIER": "Cet ordre vous ferait dépasser la limite des {LIMIT} ordres ouverts.",
       "WOULD_NOT_REDUCE": "Votre position ne serait pas réduite si l'ordre est exécuté.",
       "WOULD_NOT_REDUCE_UNCHECK": "Votre position ne serait pas réduite avec cet ordre. Veuillez décocher Reduce-Only si vous souhaitez passer votre ordre.",
-      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Til dépasse le maximum de 90 jours.",
+      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Till dépasse le maximum de 90 jours.",
       "POSITION_LEVERAGE_OVER_MAX": "L'effet de levier de la position qui en résulterait serait supérieur à l'effet de levier maximal pour ce marché."
     },
     "TRADE_BOX_TITLE": {
@@ -2322,7 +2322,7 @@
       "CONNECT_WALLET_TO_TRADE": "Connecter le portefeuille",
       "DEPOSIT_TO_TRADE": "Dépôt",
       "USER_MAX_ORDERS": "Trop d'ordres ouverts",
-      "INVALID_GOOD_TIL": "Invalide Good Til"
+      "INVALID_GOOD_TIL": "Invalide Good Till"
     },
     "TRIGGERS_FORM": {
       "BUY_TRIGGER_TOO_CLOSE_TO_LIQUIDATION_PRICE_NO_LIMIT": "Votre prix de déclenchement est trop proche de votre prix de liquidation - cet ordre peut ne pas s'exécuter complètement avant que vous ne soyez liquidé. Veuillez saisir un prix de déclenchement inférieur à {TRIGGER_PRICE_LIMIT}.",
