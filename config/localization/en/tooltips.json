@@ -14,7 +14,7 @@
   },
   "AFFILIATES": {
     "AFFILIATE_COMMISSIONS": {
-      "TITLE": "Affiliate Comissions",
+      "TITLE": "Affiliate Commissions",
       "BODY": "Commission percentage from taker fees."
     }
   },
@@ -63,7 +63,7 @@
     },
     "DEFAULT_EXECUTION": {
       "TITLE": "Default Execution",
-      "BODY": "Your order will fill any crossing orders at the time of opening. If your order is not fully filled, it will remain open until it is filled, cancelled, or expires."
+      "BODY": "Your order will fill any crossing orders at the time of opening. If your order is not fully filled, it will remain open until it is filled, canceled, or expires."
     },
     "EQUITY": {
       "TITLE": "Equity",
@@ -86,7 +86,7 @@
       "BODY": "The maximum amount you can withdraw. When free collateral is 0 or negative, your account is using maximum leverage."
     },
     "GOOD_TIL": {
-      "TITLE": "Good Til",
+      "TITLE": "Good Till",
       "BODY": "Time until your order expires."
     },
     "IMMEDIATE_OR_CANCEL": {
@@ -191,11 +191,11 @@
     },
     "POST_ONLY": {
       "TITLE": "Post-Only",
-      "BODY": "Orders with post-only enabled can only be placed as maker orders. If the order crosses other orders at the time of placement, it will be automatically cancelled."
+      "BODY": "Orders with post-only enabled can only be placed as maker orders. If the order crosses other orders at the time of placement, it will be automatically canceled."
     },
     "POST_ONLY_TIMEINFORCE_GTT": {
       "TITLE": "Post-Only",
-      "BODY": "Post-Only is only available if Time in Force is set to Good Til Time."
+      "BODY": "Post-Only is only available if Time in Force is set to Good Till Time."
     },
     "PRICE_IMPACT": {
       "TITLE": "Price Impact",

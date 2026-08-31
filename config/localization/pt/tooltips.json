@@ -80,7 +80,7 @@
       "BODY": "O valor máximo que você pode sacar. Quando a garantia gratuita é 0 ou negativa, sua conta está usando a alavancagem máxima."
     },
     "GOOD_TIL": {
-      "TITLE": "Good Til",
+      "TITLE": "Good Till",
       "BODY": "Período até que a sua ordem expire."
     },
     "IMMEDIATE_OR_CANCEL": {
@@ -185,7 +185,7 @@
     },
     "POST_ONLY_TIMEINFORCE_GTT": {
       "TITLE": "Ordem Post-Only",
-      "BODY": "A Post-Only só está disponível se o Tempo em vigor estiver definido como Good Til Time."
+      "BODY": "A Post-Only só está disponível se o Tempo em vigor estiver definido como Good Till Time."
     },
     "PRICE_IMPACT": {
       "TITLE": "Impacto do preço",

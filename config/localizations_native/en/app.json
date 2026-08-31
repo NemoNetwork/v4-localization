@@ -276,7 +276,7 @@
       "US_DOLLAR": "US Dollar",
       "CONFIRM_TRADE": "Confirm trade",
       "CONVERSION_RATE": "Conversion Rate",
-      "SWAP_MARGIN_ERROR_TEXT": "Switch to Pro mode to access higer leverage.",
+      "SWAP_MARGIN_ERROR_TEXT": "Switch to Pro mode to access higher leverage.",
       "SWAP_INTRO": {
         "TITLE": "Swap Mode",
         "SUBTITLE": "We built an easier way to trade on dYdX",
@@ -359,7 +359,7 @@
     "FIAT_ONRAMP": {
       "NEW": "New!",
       "SUPPORT_FROM_PROVIDER": "{PROVIDER} Support",
-      "SUPPORT_MESSAGE": "Looing for a fiat deposit?  Check your order status in your email or contact {PROVIDER} support."
+      "SUPPORT_MESSAGE": "Looking for a fiat deposit?  Check your order status in your email or contact {PROVIDER} support."
     },
     "V4": {
       "ALERTS_PLACHOLDER": "Trading and protocol alerts will be displayed here.",
@@ -374,7 +374,7 @@
       "SWITCH_NETWORK": "Switch Trading Network",
       "CALCULATING": "Calculating ...",
       "NO_HASH": "Unable to obtain transaction hash.",
-      "NO_GAS_TITLE": "Insufficent wallet balance to cover gas fee",
+      "NO_GAS_TITLE": "Insufficient wallet balance to cover gas fee",
       "NO_GAS_BODY": "Please first make a small deposit to your dYdX account to refill wallet.",
       "THEME": "Theme",
       "NOTIFICATIONS": "Notifications",
@@ -431,8 +431,8 @@
       "LEVERAGE_TRADE_US_ELECTION_SHORT": "Leverage trade the U.S. Election",
       "WITH_PREDICTION_MARKETS": "with Prediction Markets",
       "PREDICTION_MARKETS_SETTLEMENT_DESCRIPTION": "Prediction Markets will settle at $1 if the event occurs as predicted. Otherwise, they will settle at $0.",
-      "LEVERAGE_TRADE_EVENT_OUTCOMES_TITLE":"Leverage Trade Event Outcomes",
-      "LEVERAGE_TRADE_EVENT_OUTCOMES_DESCRIPTION":"On a wide range of topics, including politics, sports, pop culture, and more.",
+      "LEVERAGE_TRADE_EVENT_OUTCOMES_TITLE": "Leverage Trade Event Outcomes",
+      "LEVERAGE_TRADE_EVENT_OUTCOMES_DESCRIPTION": "On a wide range of topics, including politics, sports, pop culture, and more.",
       "SETTLEMENT_OUTCOMES_TITLE": "$0 or $1 Settlement",
       "SETTLEMENT_OUTCOMES_DESCRIPTION": "Market will automatically settle at $1 if the event occurs. Otherwise, it will settle at ~$0. Price is equivalent to the percentage chance the outcome will occur."
     }

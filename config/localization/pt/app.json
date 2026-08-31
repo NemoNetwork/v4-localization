@@ -1306,10 +1306,10 @@
       "FUNDING_PAYMENTS": "Pagamentos de financiamento",
       "FUNDING_RATE_1H_SHORT": "Financiamento de 1h",
       "FUNDING_RATE": "Financiamento estimado em 1h",
-      "GOOD_TIL_DATE_ABBREVIATED": "Good Til",
-      "GOOD_TIL_DATE": "Good Til Date",
-      "GOOD_TIL_TIME": "Good Til Time",
-      "GOOD_TIL": "Good Til",
+      "GOOD_TIL_DATE_ABBREVIATED": "Good Till",
+      "GOOD_TIL_DATE": "Good Till Date",
+      "GOOD_TIL_TIME": "Good Till Time",
+      "GOOD_TIL": "Good Till",
       "HISTORICAL_FUNDING_RATE": "Taxa de financiamento histórica",
       "IMMEDIATE_OR_CANCEL": "Imediato or cancelar",
       "IMMEDIATE_OR_CANCEL_PARTIALLY_FILLED": "Imediato ou cancelar parcialmente preenchido",
@@ -2268,7 +2268,7 @@
       "USER_MAX_ORDERS_FOR_TOP_EQUITY_TIER": "Essa ordem colocaria você acima do limite de {LIMIT} ordens abertas.",
       "WOULD_NOT_REDUCE": "Sua posição não será reduzida se o pedido for preenchido.",
       "WOULD_NOT_REDUCE_UNCHECK": "Com esta ordem, sua posição não seria reduzida. Desmarque a opção Somente Reduzir se quiser colocar sua ordem.",
-      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Til excede o máximo de 90 dias.",
+      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Till excede o máximo de 90 dias.",
       "POSITION_LEVERAGE_OVER_MAX": "A alavancagem da posição resultante seria superior à alavancagem máxima para este mercado."
     },
     "TRADE_BOX_TITLE": {
@@ -2322,7 +2322,7 @@
       "CONNECT_WALLET_TO_TRADE": "Conecte a carteira",
       "DEPOSIT_TO_TRADE": "Depositar",
       "USER_MAX_ORDERS": "Muitas ordens abertas",
-      "INVALID_GOOD_TIL": "Good Til inválido"
+      "INVALID_GOOD_TIL": "Good Till inválido"
     },
     "TRIGGERS_FORM": {
       "BUY_TRIGGER_TOO_CLOSE_TO_LIQUIDATION_PRICE_NO_LIMIT": "O preço de disparo está muito próximo do preço de liquidação — esta ordem pode não ser executada totalmente antes de ser liquidada. Insira um preço de disparo abaixo de {TRIGGER_PRICE_LIMIT}.",

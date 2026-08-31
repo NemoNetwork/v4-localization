@@ -75,7 +75,7 @@
       "ACADEMY": "Academy",
       "ACCOUNT_LEVERAGE": "Account Leverage",
       "ACCOUNT": "Account",
-      "ACKNOWLEDGEMENT": "Acknowledgement",
+      "ACKNOWLEDGEMENT": "Acknowledgment",
       "ACTION": "Action",
       "ACTIONS": "Actions",
       "ACTIVE": "Active",
@@ -477,7 +477,7 @@
       },
       "AAVE": {
         "PRIMARY": "Aave is an open-source and non-custodial protocol to earn interest on deposits and borrow assets.",
-        "SECONDARY": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion."
+        "SECONDARY": "Aave is a decentralized non-custodial liquidity market protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion."
       },
       "ADA": {
         "PRIMARY": "Cardano is a proof-of-stake blockchain platform: the first to be founded on peer-reviewed research and developed through evidence-based methods. It combines pioneering technologies to provide unparalleled security and sustainability to decentralized applications, systems, and societies.",
@@ -752,7 +752,7 @@
         "SECONDARY": "SushiSwap is a community run project that is governed by vote of its token holders. Core products include Exchange, Liquidity Pools, Farms, and SushiBar Staking."
       },
       "SNX": {
-        "PRIMARY": "Synthetix is a decentralised synthetic asset issuance protocol built on Ethereum.",
+        "PRIMARY": "Synthetix is a decentralized synthetic asset issuance protocol built on Ethereum.",
         "SECONDARY": "Synthetix allows users to capture the price movements of popular cryptocurrencies, fiat currencies, stocks, commodities and more with zero slippage. Synthetic assets or Synths, are assets voted into existence by the community which represent the price of different types of assets."
       },
       "TIA": {
@@ -1437,10 +1437,10 @@
       "FUNDING_RATE_1H_SHORT": "1h Funding",
       "FUNDING_RATE_DURATION_SHORT": "{DURATION} Funding",
       "FUNDING_RATE": "Estimated 1h Funding",
-      "GOOD_TIL_DATE_ABBREVIATED": "Good Til",
-      "GOOD_TIL_DATE": "Good Til Date",
-      "GOOD_TIL_TIME": "Good Til Time",
-      "GOOD_TIL": "Good Til",
+      "GOOD_TIL_DATE_ABBREVIATED": "Good Till",
+      "GOOD_TIL_DATE": "Good Till Date",
+      "GOOD_TIL_TIME": "Good Till Time",
+      "GOOD_TIL": "Good Till",
       "HISTORICAL_FUNDING_RATE": "Historical Funding Rate",
       "IMMEDIATE_OR_CANCEL": "Immediate Or Cancel",
       "IMMEDIATE_OR_CANCEL_PARTIALLY_FILLED": "Immediate or cancel partially filled",
@@ -1474,7 +1474,7 @@
       "MAXIMUM_POSITION_SIZE": "Maximum Position Size",
       "MID_MARKET": "Mid-Market",
       "MID_MARKET_PRICE_SHORT": "Mid",
-      "MODIFY_GOOD_TIL": "Modify Good Til",
+      "MODIFY_GOOD_TIL": "Modify Good Till",
       "MODIFY_MARGIN_AMOUNT": "Modify amount",
       "MODIFY_PRICE": "Modify price",
       "MODIFY_SIZE_FIELD": "Modify amount",
@@ -1563,7 +1563,7 @@
       "RATE": "Rate",
       "RATE_1H": "1h Rate",
       "RATE_8H": "8h Rate",
-      "REALIZED_PNL": "Realized P&L",
+      "REALIZED_PNL": "Realized PnL",
       "REDUCE_ONLY": "Reduce-Only",
       "REDUCE_ONLY_RESIZED": "Reduce-Only resized",
       "RELEASE_TO_EDIT": "Release mouse to edit order",
@@ -1617,7 +1617,7 @@
       "TRIGGERS": "Triggers",
       "UNDERCOLLATERALIZED": "Undercollateralized",
       "UNOPENED_ISOLATED_POSITIONS": "Unopened Isolated Positions",
-      "UNREALIZED_PNL": "Unrealized P&L",
+      "UNREALIZED_PNL": "Unrealized PnL",
       "UNTRIGGERED": "Untriggered",
       "UP_TO_X": "Up to {LEVERAGE}×",
       "UPDATE_TRIGGERS": "Update trigger(s)",
@@ -1773,7 +1773,7 @@
       "LEGAL_UPDATES": "Legal updates",
       "LEGAL_UPDATES_DESCRIPTION": "Please check out our updated {TOU} and {PRIVACY_POLICY}.",
       "MAGIC_OAUTH_REDIRECT_FAILED": "Sign in failed",
-      "MAGIC_OAUTH_REDIRECT_FAILED_BODY": "An error occured during your sign in with Magic. Please try again.",
+      "MAGIC_OAUTH_REDIRECT_FAILED_BODY": "An error occurred during your sign in with Magic. Please try again.",
       "MAINTENANCE_MARGIN_ADJUSTMENTS": "Maintenance margin requirements {ACTION} at {PERCENT}%.",
       "NOTIFICATIONS_EMPTY_STATE": "You have no notifications.",
       "ORDERBOOK_LAGGING": "Orderbook lagging",
@@ -2200,7 +2200,7 @@
       "SET_DEFAULT_LAYOUT": "Set Default Layout",
       "SET_REVERSE_LAYOUT": "Set Reverse Layout",
       "SET_ALTERNATIVE_LAYOUT": "Set Alternative Layout",
-      "NAVIGATE_TO_MARKET": "Nagivate to Market"
+      "NAVIGATE_TO_MARKET": "Navigate to Market"
     },
     "NEW_MARKET_WIDGET": {
       "ADD_A_MARKET": "Add a market",
@@ -2368,7 +2368,7 @@
     "BROADCAST_ERROR_CLOB_3005": "Existing stateful order has higher-or-equal priority than the new one.",
     "BROADCAST_ERROR_CLOB_3006": "Stateful order does not exist.",
     "BROADCAST_ERROR_CLOB_3007": "Stateful order collateralization check failed. Order size might be too large, please try again with a smaller order.",
-    "BROADCAST_ERROR_CLOB_3008": "Stateful order was previously cancelled and therefore cannot be placed.",
+    "BROADCAST_ERROR_CLOB_3008": "Stateful order was previously canceled and therefore cannot be placed.",
     "BROADCAST_ERROR_CLOB_3009": "Stateful order was previously removed and therefore cannot be placed.",
     "BROADCAST_ERROR_CLOB_10001": "Subaccount cannot open more orders due to equity tier limit. {EQUITY_TIER_LEARN_MORE}",
     "BROADCAST_ERROR_2000": "Fill Or Kill order could not be fully filled.",
@@ -2384,7 +2384,7 @@
     "BROADCAST_ERROR_3005": "Existing stateful order has higher-or-equal priority than the new one.",
     "BROADCAST_ERROR_3006": "Stateful order does not exist.",
     "BROADCAST_ERROR_3007": "Stateful order collateralization check failed.",
-    "BROADCAST_ERROR_3008": "Stateful order was previously cancelled and therefore cannot be placed.",
+    "BROADCAST_ERROR_3008": "Stateful order was previously canceled and therefore cannot be placed.",
     "BROADCAST_ERROR_3009": "Stateful order was previously removed and therefore cannot be placed.",
     "BROADCAST_ERROR_10001": "Subaccount cannot open more orders due to equity tier limit. {EQUITY_TIER_LEARN_MORE}",
     "QUERY_ERROR_SUBACCOUNTS_NEWLYUNDERCOLLATERALIZED": "This would put your account below the collateralization threshold. Please try a smaller amount.",
@@ -2439,7 +2439,7 @@
       "USER_MAX_ORDERS_FOR_TOP_EQUITY_TIER": "This order would put you over the limit of {LIMIT} open orders.",
       "WOULD_NOT_REDUCE": "Your position would not be reduced if order is filled.",
       "WOULD_NOT_REDUCE_UNCHECK": "Your position would not be reduced with this order. Please uncheck Reduce-Only if you would like to place your order.",
-      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Til exceeds the maximum 90 days.",
+      "INVALID_GOOD_TIL_MAX_90_DAYS": "Good Till exceeds the maximum 90 days.",
       "POSITION_LEVERAGE_OVER_MAX": "Resulting position leverage would be over the maximum leverage for this market.",
       "ISOLATED_MARGIN_LIMIT_ORDER_BELOW_MINIMUM": "Your order is below the minimum collateral requirement for isolated margin orders. Isolated margin orders require at least {MIN_VALUE} of collateral."
     },
@@ -2454,7 +2454,7 @@
       "MARKET_ORDER_ERROR_ORDERBOOK_SLIPPAGE": "Too much slippage",
       "MARKET_ORDER_NOT_ENOUGH_LIQUIDITY": "Not enough liquidity",
       "MARKET_ORDER_ONE_SIDED_LIQUIDITY": "One-sided liquidity",
-      "MARKET_ORDER_PRICE_IMPACT_AT_MAX_LEVERAGE": "Potentally invalid leverage",
+      "MARKET_ORDER_PRICE_IMPACT_AT_MAX_LEVERAGE": "Potentially invalid leverage",
       "MARKET_ORDER_WARNING_INDEX_PRICE_SLIPPAGE": "Too much slippage",
       "NEW_POSITION_SIZE_OVER_MAX": "Max position size",
       "NO_EQUITY_DEPOSIT_FIRST": "Deposit first",
@@ -2494,7 +2494,7 @@
       "CONNECT_WALLET_TO_TRADE": "Connect Wallet",
       "DEPOSIT_TO_TRADE": "Deposit",
       "USER_MAX_ORDERS": "Too many open orders",
-      "INVALID_GOOD_TIL": "Invalid Good Til",
+      "INVALID_GOOD_TIL": "Invalid Good Till",
       "ISOLATED_MARGIN_LIMIT_ORDER_BELOW_MINIMUM": "Below minimum size"
     },
     "TRADING_VIEW": {
