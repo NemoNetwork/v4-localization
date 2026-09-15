@@ -516,7 +516,9 @@
       "MAYBE_LATER": "Maybe later",
       "RESET_LAYOUT_TO_DEFAULT": "Reset Layout to Default",
       "TRADE_DETAILS": "Trade Details",
-      "NO_BALANCES_TO_SHOW": "No balances to show"
+      "NO_BALANCES_TO_SHOW": "No balances to show",
+      "ALL_ORDERS_CANCELED": "All Orders Canceled",
+      "ALL_OPEN_ORDERS_ACROSS_YOUR_POSITIONS_HAVE_BEEN_CANCELED_SUCCESSFULLY": "All open orders across your positions have been canceled successfully."
     },
     "__ASSETS": {
       "ZRX": {
