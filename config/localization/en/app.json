@@ -2355,7 +2355,8 @@
       "ENTER_DAYS": "Enter Days",
       "I_UNDERSTAND_THAT_THE_PRIVATE_KEY_CANNOT_BE_RECOVERED_AFTER_AUTHORIZATION": "I understand that the private key cannot be recovered after authorization, and if someone else gains access to it, they can place trades using my account's full margin.",
       "AUTHORIZE": "Authorize",
-      "WITHDRAWAL_IP_RESTRICTION_REQUIRED": "Withdrawal (IP restriction required)"
+      "WITHDRAWAL_IP_RESTRICTION_REQUIRED": "Withdrawal (IP restriction required)",
+      "ARE_YOU_SURE_YOU_WANT_TO_DELETE_API_WALLET": "Are you sure you want to delete API Wallet?"
     }
   },
   "TOKEN_MIGRATION": {
